@@ -15,9 +15,9 @@ In case you can't find processing, make sure that after unarchiving the applicat
 ## Series Overview
 This is the second of a series of lessons on programming in Java for the FIRST Robotics Competition.  It is designed for novice programmers, and can act as a precursor programming sequence to learning FRC-Java.  We will introduce:
 
-1. Data abstraction
-2. Procedure definitions
-3. Procedure invocations
+1. Data abstraction     <--- We are here!
+2. Procedure invocations
+3. Procedure definitions
 4. Looped behavior
 5. Field scope
 6. Class definitions
@@ -45,7 +45,7 @@ Once the repository is cloned and the file is open in Processing, students shoul
 ## Instructions for Students
 
 ### Preamble:
-For this lesson, all of the TODO tasks will be listed above a code demarcation comment line, and all of your code will be written below the comment line.  Please read all directions clearly before you get started.  If you want, delete TODO comment blocks when you are finished with the task.
+For this lesson, all of your code will be written below the comment line.  Please read all directions clearly before you get started. 
 
 ### TODO 1:  
 Create your setup method down below.  Add code to your setup method to enable fullscreen view.  Then, change the background color to crimson. Two resources to help you figure out how to do that:
