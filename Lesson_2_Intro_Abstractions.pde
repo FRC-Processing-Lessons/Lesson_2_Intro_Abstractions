@@ -9,10 +9,9 @@ controlling the main program loop.
 */ 
 
 /*
-  Preamble - For this lesson, all of the TODO tasks will be listed above a code
-  demarcation comment line, and all of your code will be written below the comment 
-  line.  Please read all directions clearly before you get started.  If you want, 
-  delete TODO comment blocks when you are finished with the task.
+  Preamble - For this lesson, all of the TODO tasks will be listed in the attached README, 
+  and all of your code will be written below the comment line.  Please read all directions 
+  clearly before you get started. 
 */
 
 /*
